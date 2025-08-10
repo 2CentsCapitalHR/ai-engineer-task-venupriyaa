@@ -1,0 +1,10 @@
+python-docx
+PyPDF2
+requests
+sentence-transformers
+faiss-cpu
+chromadb
+gradio
+openai
+pdfplumber
+numpy
